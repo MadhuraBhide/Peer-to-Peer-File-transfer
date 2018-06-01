@@ -1,0 +1,4 @@
+RS=192.168.0.44,65423
+basepath=C:\Users\Madhura\Desktop\IP Project\
+Trial1=hostA,192.168.0.43,500
+Trial2=hostB,192.168.0.43,1000

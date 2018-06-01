@@ -1,0 +1,21 @@
+Submitted code contains 6 .py files:
+1. RS Code
+2. Register code
+3. PQuery code
+4. Leave code
+5. Peer_Client1.py(Client methods for client part of Peer to call)
+6. Main Peer code(Containing Server code and file download calls)
+
+Instructions to run Registration Server and Peer Client and Server:
+
+1. Please make multiple copies of 'Peer1.py' file if you need multiple Peer client-server pairs.
+2. Please make following changes in 'Data.txt' file for code to run properly:
+   - Specify RS IP and port
+   - Specify basepath for Peer to save its downloaded files.
+   - Please specify filepath for Data.txt file in respective Peer's .py files for Peer to read.
+   - Specify Peer's hostnames, IPs and port numbers in front of respective Peer.(Peer's name, e.g.Peer1 should be same as filename(.py)
+
+3. Specify files to be downloaded in the respective Peer's .py file.
+4. Please run RS.py and Peer codes(.py)(at least 2 for file download to happen)
+ 
+   
